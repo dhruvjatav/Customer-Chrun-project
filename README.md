@@ -37,26 +37,6 @@ It includes:
 • Streamlit  
 • Power BI  
 
----
-
-## 📁 Project Structure
-Customer-Churn-Project/
-│
-├── app.py
-├── train_model.py
-├── churn_theme.json
-├── requirements.txt
-├── README.md
-├── data/
-│ └── telco_churn.csv
-├── model/
-│ ├── churn_model.pkl
-│ └── columns.pkl
-└── dashboard/
-└── Customer_Churn_Dashboard.pbix
-
----
-
 ## ▶️ How To Run
 
 ```bash
