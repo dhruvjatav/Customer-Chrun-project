@@ -1,0 +1,15 @@
+{
+  "name": "Churn Corporate Theme",
+  "dataColors": [
+    "#1E88E5",
+    "#43A047",
+    "#FB8C00",
+    "#E53935",
+    "#8E24AA",
+    "#00897B",
+    "#3949AB"
+  ],
+  "background": "#F5F7FA",
+  "foreground": "#212121",
+  "tableAccent": "#1E88E5"
+}
